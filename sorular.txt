@@ -1,0 +1,8 @@
+neden|amaç|karşılaştırma|1|Yoğun kar yağışı nedeniyle bazı soruları yapamadı.{}
+neden|amaç|karşılaştırma|2|Borçlarından kurtulmak için günlerce çalıştı..{}
+neden|amaç|karşılaştırma|2|Çiçek ekmek üzere bahçeye çıktı.{}
+neden|amaç|karşılaştırma|1|Sınavda heyecanlandığı için bazı soruları yapamadı.{}
+neden|amaç|karşılaştırma|3|Yazın buraları Antalya’dan daha sıcak oluyor.{}
+neden|amaç|karşılaştırma|3|Kebaplarından çok künefeleri beğeniliyor.{}
+neden|amaç|karşılaştırma|1|Bu seneki TEOG sınavı geçen seneye göre daha kolaydı.{}
+neden|amaç|karşılaştırma|1|Karşıma köpek çıktığı için koşmaya başladım.{}
