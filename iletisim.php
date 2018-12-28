@@ -18,7 +18,7 @@
         
 
         <br><br><br><p>Aksaray üniversitesi/ eğitim fakültesi/ böte-4 bölümü </p>
-        <p>kübra altun 150510031 numaralı öğrencisiyim. </p>
+        <p>Kübra ALTUN 150510031 numaralı öğrencisiyim. </p>
 		<p> iste ve şikayetleriniz için mail atabilirsiniz.mail:kubranur_altun@hotmail.com </p>
       </div>
     </div>
