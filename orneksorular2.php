@@ -7,7 +7,7 @@
       <div class="jumbotron"  align="center" >
         <div class="container"  >
           <h3 class="display-3"><img src="resimler/jumbutron.png"  width="10%" height="70" >Hadi birazcık öğrendiğimiz konularda egzersiz yapalım!!!</h3>
-          <p>KONULAR: Neden- Sonuç, Amaç-Sonuç, karşılaştırma Cümleleri ve Cümle Anlam İlişkileri ile ilgili sorular</p>
+          <p>KONULAR: cümle konusu, cümlenin ana fikri, cümleden cıkarılaçak yargı ve cıkarılmayacak yargı ile ilgili sorular</p>
           
           
         </div>
@@ -22,7 +22,7 @@
     <div class="col-md-1"> </div>
     <div class="col-md-10">
         <div class="alert alert-warning">
-          <h4>Aşağı soruları neden-sonuç cümlesi ise neden, amaç-sonuç cümlesi ise amac, karşılaştırma cümlesi ise,karşelaştırma olarak işaretleyin.</h4>
+          <h4>Aşağı soruları dikkatli bir şekilde okuyun ve paragrafların konusunu işaretleyin.</h4>
         </div>  
     </div>
   </div>
@@ -79,7 +79,7 @@
     } // function ara($Aranan)
 
 
-    $arrSorular = file("sorular.txt");
+    $arrSorular = file("sorular2.txt");
 
     echo "<ul>";
     foreach ($arrSorular as $key => $value) {
@@ -111,9 +111,10 @@
 
 
             <!--<h2>Neden-sonuç ( sebep - sonuç) cümleleri</h2>-->
-           <p align='right'> 
-            <a class=" btn-lg btn btn-warning" href="orneksorular2.php" role="button">cümle yorumlama örnek sorular &raquo;</a></p>
-            
+           
+            <p align='left'><a class=" btn-lg btn btn-warning" href="orneksorular.php" role="button">GERİ  &raquo;</a></p>
+          
+        
         
 
 

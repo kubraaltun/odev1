@@ -6,3 +6,7 @@ neden|amaç|karşılaştırma|3|Yazın buraları Antalya’dan daha sıcak oluyo
 neden|amaç|karşılaştırma|3|Kebaplarından çok künefeleri beğeniliyor.{}
 neden|amaç|karşılaştırma|1|Bu seneki TEOG sınavı geçen seneye göre daha kolaydı.{}
 neden|amaç|karşılaştırma|1|Karşıma köpek çıktığı için koşmaya başladım.{}
+kanıt|Görece|Koz|1|" Mahkemede delil olarak kullandı. " cümlesinde " delil " sözcüğünün eş anlamlısı hangisidir? {}
+1|2|3|3|<p>Baytar - Veteriner </p><p>genç - ihtiyar</p><p>nadir - ender</>para - nakit -- verilen eşleşmelerden kaç tanesi anlamdaştır ?{}
+fakir|centilmen|dürüst|1|" Çok <u><b>kaba</b></u> bir insan oldun. " cümlesinde altı çizili sözcüğün zıt anlamlısı nedir ?{}
+eş anlamlı|sesteş|zıt anlamlı|3|" Anlamları birbirinin tam tersi olan sözcüklere ...{}... sözcükler denir. " yandaki verilen cümlede noktalı yere hangisi getirilmelidir ?
