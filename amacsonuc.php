@@ -2,7 +2,7 @@
  <main role="main"  >
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
-      <div class="jumbotron" align="center">
+      <div class="jumbotron" align="center" style="background: #e6e6e6">
         <div class="container">
           <h2 class="display-3">AMAÇ-SONUÇ CÜMLELERİ</h2>
           

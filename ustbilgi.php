@@ -36,7 +36,7 @@
 </style>
 
 </head> 
-<body >
+<body style="background-color: #f2f2f2">
 <div class="container-flued">
     <nav class="navbar navbar-inverse" >
         <!-- Brand and toggle get grouped for better mobile display -->

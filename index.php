@@ -5,7 +5,7 @@
 <main role="main"  >
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
-      <div class="jumbotron"  align="center" >
+      <div class="jumbotron"  align="center" style="background: #e6e6e6">
         <div class="container"  >
           <h1 class="display-3"><img src="resimler/jumbutron.png"  width="10%" height="70" >Cümlede Anlam </h1>
           <p>Türkçe 4. sınıf Cümlede anlam konusunda zorlandığın konuyu seç ve öğren!!!</p>
@@ -42,7 +42,7 @@
              </div>
 
               <div class="col-md-3">           
-            <a href="cumleanlam.php"><img src="resimler/anlamiliski.jpg" class="rounded-circle img-thumbnail" width="100%" height="300"> </a>
+            <a href="cumleanlam.php"><img src="resimler/anlamiliski.JPG" class="rounded-circle img-thumbnail" width="100%" height="300"> </a>
             <br>&nbsp;
            <p align='center'><a class=" btn-lg btn btn-warning" href="cumleanlam.php" role="button">Konu Anlatımı &raquo;</a></p>
              </div>
@@ -73,12 +73,12 @@
              </div>
 
               <div class="col-md-3">           
-            <a href="cumle.php?id=6"><img src="resimler/yargi1.jpg" class="rounded-circle img-thumbnail" width="100%" height="300"> </a>
+            <a href="cumle.php?id=6"><img src="resimler/yargi1.JPG" class="rounded-circle img-thumbnail" width="100%" height="300"> </a>
             <br>&nbsp;
             <p align='center'><a class=" btn-lg btn btn-warning" href="cumle.php?id=6" role="button">Konu Anlatımı &raquo;</a></p>
              </div>
              <div class="col-md-3">           
-            <a href="cumle.php?id=7"><img src="resimler/yargi2.jpg" class="rounded-circle img-thumbnail" width="100%" height="300"> </a>
+            <a href="cumle.php?id=7"><img src="resimler/yargi2.JPG" class="rounded-circle img-thumbnail" width="100%" height="300"> </a>
             <br>&nbsp;
             <p align='center'><a class=" btn-lg btn btn-warning" href="cumle.php?id=7" role="button">Konu Anlatımı &raquo;</a></p>
              </div>
