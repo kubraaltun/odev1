@@ -4,7 +4,7 @@
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron" align="center" style="background: #e6e6e6">
         <div class="container">
-          <h2 class="display-3">CÜMLEDEN ÇIKARILACAK YARGI</h2>
+          <h2 class="display-3"><img src="resimler/jumbutron.png"  width="10%" height="70" >CÜMLEDEN ÇIKARILACAK YARGI</h2>
           
           
         </div>
@@ -34,10 +34,7 @@
 
 
 
-          <video controls="controls" src="EBA.mp4" style="width: 50%" style="height: 50%" style="align-content: center;">
-    Your browser does not support the HTML5 Video element.
-
-          <p><a class="btn btn-primary btn-lg" href="#" role="button">Diğer Örnekler...</a></p>
+         
 
 
 

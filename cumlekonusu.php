@@ -4,7 +4,7 @@
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron" align="center" style="background: #e6e6e6">
         <div class="container">
-          <h2 class="display-3">CÜMLENİN KONUSU</h2>
+          <h2 class="display-3"><img src="resimler/jumbutron.png"  width="10%" height="70" >CÜMLENİN KONUSU</h2>
           
           
         </div>
@@ -13,8 +13,9 @@
   <!-- Example row of columns -->
   <div class="row">
     <div class="col-md-1"> </div>
-    <div class="col-md-10">
-     
+    
+     <div class="row">
+     <div class="col-md-10">     
       <?php 
 
         require_once("baglanti.php");
@@ -46,10 +47,7 @@
 
 
 
-          <video controls="controls" src="konuveanafikir.mp4" style="width: 50%" style="height: 50%" style="align-content: center;">
-    Your browser does not support the HTML5 Video element.
-
-          <p><a class="btn btn-primary btn-lg" href="#" role="button">Diğer Örnekler...</a></p>
+          <video controls="controls" src="konuveanafikir.mp4" style="width: 50%" style="height: 50%" style="align-content: center;"></video>
 
 
 

@@ -4,7 +4,7 @@
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron" align="center" style="background: #e6e6e6">
         <div class="container">
-          <h2 class="display-3">CÜMLENİN ANA FİKRİ</h2>
+          <h2 class="display-3"><img src="resimler/jumbutron.png"  width="10%" height="70" >CÜMLENİN ANA FİKRİ</h2>
           
           
         </div>

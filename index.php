@@ -21,7 +21,7 @@
         <div class="row">
         	
 
-          <div class="col-md-3">
+         <br> <div class="col-md-3">
 
             <!--<h2>Neden-sonuç ( sebep - sonuç) cümleleri</h2>-->
             <a href="nedensonuc.php"><img src="resimler/neden.jpg" class="rounded-circle img-thumbnail" width="100%" height="300"   > </a>
@@ -53,14 +53,14 @@
             <!--<h2>Neden-sonuç ( sebep - sonuç) cümleleri</h2>-->
 
 
-        <div class="alert alert-info" align="center">
+       <br><br> <div class="alert alert-info" align="center">
           <h2> <strong> Cümle Yorumlama</strong></h2>
         </div>    
             
             </div>
             </div>
 <div class="row">
-             <div class="col-md-3">           
+             <br><div class="col-md-3">           
             <a href="cumlekonusu.php"><img src="resimler/konu.jpg" class="rounded-circle img-thumbnail" width="100%" height="300"> </a>
             <br>&nbsp;
             <p align='center'><a class=" btn-lg btn btn-warning" href="cumlekonusu.php" role="button">Konu Anlatımı &raquo;</a></p>
@@ -73,14 +73,14 @@
              </div>
 
               <div class="col-md-3">           
-            <a href="cumle.php?id=6"><img src="resimler/yargi1.JPG" class="rounded-circle img-thumbnail" width="100%" height="300"> </a>
+            <a href="cikarilacakyargi.php"><img src="resimler/yargi1.JPG" class="rounded-circle img-thumbnail" width="100%" height="300"> </a>
             <br>&nbsp;
-            <p align='center'><a class=" btn-lg btn btn-warning" href="cumle.php?id=6" role="button">Konu Anlatımı &raquo;</a></p>
+            <p align='center'><a class=" btn-lg btn btn-warning" href="cikarilacakyargi.php" role="button">Konu Anlatımı &raquo;</a></p>
              </div>
              <div class="col-md-3">           
-            <a href="cumle.php?id=7"><img src="resimler/yargi2.JPG" class="rounded-circle img-thumbnail" width="100%" height="300"> </a>
+            <a href="cikarilmayacakyargi.php"><img src="resimler/yargi2.JPG" class="rounded-circle img-thumbnail" width="100%" height="300"> </a>
             <br>&nbsp;
-            <p align='center'><a class=" btn-lg btn btn-warning" href="cumle.php?id=7" role="button">Konu Anlatımı &raquo;</a></p>
+            <p align='center'><a class=" btn-lg btn btn-warning" href="cikarilmayacakyargi.php" role="button">Konu Anlatımı &raquo;</a></p>
              </div>
             </div>
  <div class="row">
@@ -89,7 +89,7 @@
             <!--<h2>Neden-sonuç ( sebep - sonuç) cümleleri</h2>-->
 
 
-        <div class="alert alert-info" align="center">
+        <br><br><div class="alert alert-info" align="center">
           <h2> <strong> Değerlendirme Sorular</strong></h2>
         </div>    
             
@@ -97,7 +97,7 @@
             </div>
 
 <div class="row">
-	<div class="col-md-3"> </div>
+	<br><div class="col-md-3"> </div>
              <div class="col-md-3">           
             <a href="orneksorular.php"><img src="resimler/orneksorular.JPG" class="rounded-circle img-thumbnail" width="100%" height="300"> </a>
             <br>&nbsp;
