@@ -15,12 +15,15 @@
         <img src="iletisim.png" class="rounded-circle" width="100%" height="350"> 
       </div>
       <div class="col-md-8" ><br>
-        
+         <img src="resimler/logo.jpg" class="rounded-circle img-thumbnail" width="150" height="150" > 
 
-        <br><br><br><p>Aksaray üniversitesi/ eğitim fakültesi/ böte-4 bölümü </p>
+        <br><br><br><p>Aksaray Üniversitesi/ Eğitim fakültesi</p>
+        <p>Bilgisayar ve Öğretim Teknolojileri Öğretmenliği 4. Sınıf </p>
         <p>Kübra ALTUN 150510031 numaralı öğrencisiyim. </p>
-		<p> iste ve şikayetleriniz için mail atabilirsiniz.mail:kubranur_altun@hotmail.com </p>
+		<p> İstek ve şikayetleriniz için mail atabilirsiniz. E-mail:kubranur_altun@hotmail.com </p>
+
       </div>
+    </div>
     </div>
 
         
