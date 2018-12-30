@@ -31,10 +31,22 @@
           <p><?php echo $satir["konu_tanimi"]; ?></p>
           <p><?php echo nl2br($satir["konu_ornekleri"]); ?></p>
 
+ <div class="row">
+
+             <div class="col-md-12">
+            <!--<h2>Neden-sonuç ( sebep - sonuç) cümleleri</h2>-->
+
+
+        <div class="alert alert-warning" align="center">
+          <h2> <strong> Hadi örnek bir video izleyelim...</strong></h2>
+        </div>    
+            
+            </div>
+            </div>
 
 
 
-          <video controls="controls" src="EBA.mp4" style="width: 50%" style="height: 50%" style="align-content: center;">
+          <video controls="controls" src="konuveanafikir.mp4" style="width: 50%" style="height: 50%" style="align-content: center;">
     Your browser does not support the HTML5 Video element.
 
           <p><a class="btn btn-primary btn-lg" href="#" role="button">Diğer Örnekler...</a></p>

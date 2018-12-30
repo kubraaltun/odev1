@@ -31,20 +31,32 @@
           <p><?php echo $satir["konu_tanimi"]; ?></p>
           <p><?php echo nl2br($satir["konu_ornekleri"]); ?></p>
 
+<div class="container">
+        <div class="row">
+          
 
+          <div class="col-md-3">
 
+            <!--<h2>Neden-sonuç ( sebep - sonuç) cümleleri</h2>-->
+            <img src="resimler/aslan.jpg" class="rounded-circle img-thumbnail" width="100%" height="600"   > </a>
+            <p>Aslan fareden <b>daha</b> güçlüdür.</p>
+            <br>&nbsp;
+            
+            </div>
+ <div class="col-md-3">
 
-          <video controls="controls" src="EBA.mp4" style="width: 50%" style="height: 50%" style="align-content: center;">
-    Your browser does not support the HTML5 Video element.
+ <img src="resimler/uzun.jpg" class="rounded-circle img-thumbnail" width="100%" height="200"   > </a>
+            <p>Ceren'in Eren <b>kadar </b> boyu vardır.</p>
+            <br>&nbsp;
+            
+            </div>
+            <div class="col-md-3">
 
-          <p><a class="btn btn-primary btn-lg" href="#" role="button">Diğer Örnekler...</a></p>
-
-
-
+ <img src="resimler/elbise.jpg" class="rounded-circle img-thumbnail" width="100%" height="200"   > </a>
+            <p>Bu elbise size <b>daha</b> çok yakıştı.</p>
+            <br>&nbsp;
+            
+            </div>
+          </div>
         </div>
-      </div>
-
-  </div>
-</div>
-
-
+          </div></div></div>
