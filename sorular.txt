@@ -1,12 +1,12 @@
 neden|amaç|karşılaştırma|1|Yoğun kar yağışı nedeniyle bazı soruları yapamadı.{}
-neden|amaç|karşılaştırma|2|Borçlarından kurtulmak için günlerce çalıştı..{}
+neden|amaç|karşılaştırma|2|Borçlarından kurtulmak için günlerce çalıştı.{}
 neden|amaç|karşılaştırma|2|Çiçek ekmek üzere bahçeye çıktı.{}
 neden|amaç|karşılaştırma|1|Sınavda heyecanlandığı için bazı soruları yapamadı.{}
 neden|amaç|karşılaştırma|3|Yazın buraları Antalya’dan daha sıcak oluyor.{}
 neden|amaç|karşılaştırma|3|Kebaplarından çok künefeleri beğeniliyor.{}
 neden|amaç|karşılaştırma|1|Bu seneki TEOG sınavı geçen seneye göre daha kolaydı.{}
 neden|amaç|karşılaştırma|1|Karşıma köpek çıktığı için koşmaya başladım.{}
-kanıt|Görece|Koz|1|" Mahkemede delil olarak kullandı. " cümlesinde " delil " sözcüğünün eş anlamlısı hangisidir? {}
-1|2|3|3|<p>Baytar - Veteriner </p><p>genç - ihtiyar</p><p>nadir - ender</>para - nakit -- verilen eşleşmelerden kaç tanesi anlamdaştır ?{}
-fakir|centilmen|dürüst|1|" Çok <u><b>kaba</b></u> bir insan oldun. " cümlesinde altı çizili sözcüğün zıt anlamlısı nedir ?{}
-eş anlamlı|sesteş|zıt anlamlı|3|" Anlamları birbirinin tam tersi olan sözcüklere ...{}... sözcükler denir. " yandaki verilen cümlede noktalı yere hangisi getirilmelidir ?
+kanıt|Görece|Koz|1|"Mahkemede delil olarak kullandı." Cümlesinde "delil" sözcüğünün eş anlamlısı hangisidir? {}
+1|2|3|3|baytar-veteriner, genç-ihtiyar, nadir-ender, para-nakit. Verilen eşleşmelerden kaç tanesi anlamdaştır ?{}
+fakir|centilmen|dürüst|1|"Çok <u><b>kaba</b></u> bir insan oldun." cümlesinde altı çizili sözcüğün zıt anlamlısı nedir ?{}
+eş anlamlı|sesteş|zıt anlamlı|3|"Anlamları birbirinin tam tersi olan sözcüklere {} sözcükler denir." yandaki verilen cümlede noktalı yere hangisi getirilmelidir?

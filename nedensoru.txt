@@ -1,2 +1,2 @@
-yağmurda ıslandığı için|markete gitti|evde oturdu|1|{}......hasta oldu.
-yağmurda ıslandığı için|markete gitti|evde oturdu|1|{}......hasta oldu.
+yağmurda kaldı|markete gitti|evde oturdu|1|Ahmet {} hasta oldu.
+yağmurda ıslandı|markete gitti|evde oturdu|1|Nesrin {} hasta oldu.
